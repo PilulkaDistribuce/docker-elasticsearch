@@ -1,4 +1,4 @@
-path.data: /var/lib/elasticsearch
+path.data: /usr/share/elasticsearch/data
 network.host: 0.0.0.0
 http.port: 9200
 indices.query.bool.max_clause_count: 40096
